@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2023-01-01
-img: BackgroundThumbnail.png
+img: CompanyLogo_14.png
 alt: image-alt
 project-date: January 2023
 client: Southern Colorado
