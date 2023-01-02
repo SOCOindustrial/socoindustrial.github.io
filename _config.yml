@@ -1,7 +1,7 @@
 # Site settings
 title: SOCO INDUSTRIAL
 email: admin@socoindustrial.com
-url: https://socoindustrial.com
+url: https://www.socoindustrial.com
 description: "24/7 mobile hydraulic service & repair. SOCO Industrial serves Southern Colorado. We can crimp hoses on-site and stock cylinders, pumps, motors, etc for your equipment. Call or text (719) 877-5139"
 keywords: "hydraulic, repair, service, hose, crimp, mobile"
 skills: "Call or Text: (719) 877-5139 - Email: admin@socoindustrial.com - Serving Southern Colorado"
@@ -41,8 +41,8 @@ footer:
 social:
   - title: twitter
     url: https://twitter.com/SOCOindustrial
-  - title: facebook
-    url:
+  #- title: facebook
+    #url:
   - title: github
     url: https://github.com/SOCOindustrial
 
