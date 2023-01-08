@@ -2,10 +2,10 @@
 layout: default
 modal-id: 2
 date: 2022-12-30
-img: service.png
+img: 02servicetrucks.png
 alt: image-alt
-project-date: 2023
-client: Southern Colorado
-category: Heavy Equipment Service & Repair
-description: When you call SOCO Industrial, a fully loaded service truck and a qualified technician will be dispatched to your job site. Our trucks are equipped with the tools and parts to preform hydraulic service, troubleshooting, and repair in a timely manner. We can crimp hydraulic and pneumatic hoses on-site, ranging from 1/4" to 2". We can swap out cylinders, valves, pumps, motors, pneumatic components, electrical components, and more. We can troubleshoot your hydraulic, pneumatic, or electrical systems and identify the root cause of the issue and preform the fix. We also offer preventative maintenance scheduling to keep the filters and fluids in your equipment at peak performance.   
+#project-date: 2023
+#client: Southern Colorado
+#category: Heavy Equipment Service & Repair
+description: <p>When you call SOCO Industrial, a fully loaded service truck and a qualified technician will be dispatched to your job site. Our trucks are equipped with the tools and parts to preform hydraulic service, troubleshooting, and repair in a timely manner.</p><p>We can crimp hydraulic and pneumatic hoses on-site, ranging from 1/4" to 2". We can swap out cylinders, valves, pumps, motors, pneumatic components, electrical components, and more.</p><p>We can troubleshoot your hydraulic, pneumatic, or electrical systems and identify the root cause of the issue and preform the fix. We also offer preventative maintenance scheduling to keep the filters and fluids in your equipment at peak performance.</p>   
 ---
