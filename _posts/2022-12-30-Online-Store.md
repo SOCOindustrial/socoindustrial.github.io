@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2022-12-30
-img: 06invoices.png
+img: 07store.png
 alt: image-alt
 #project-date: 2023
 #client: Southern Colorado
