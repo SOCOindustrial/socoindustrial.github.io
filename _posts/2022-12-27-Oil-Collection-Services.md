@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 5
+modal-id: 4
 date: 2022-12-28
-img: 05_COLLECTION.png
+img: 04_COLLECTION.png
 alt: image-alt
 #project-date: 2023
 #client: Southern Colorado
