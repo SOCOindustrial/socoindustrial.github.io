@@ -2,7 +2,7 @@
 layout: post
 modal-id: 6
 date: 2022-12-26
-img: 04_MAP.png
+img: 06_MAP.png
 alt: image-alt
 #project-date: 2023
 #client: Southern Colorado
