@@ -35,7 +35,7 @@ footer:
   copyright: SOCO INDUSTRIAL CORPORATION
   location: Location
   social: Social Media Links
-  credits: Credits
+  links: Company Document Links
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -54,7 +54,7 @@ address:
   - line: Florence, CO 81226
 
 # Credits content
-credits: 'This website was built using Freelancer, a free to use & open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+links: 'Privacy Policy <a href="http://socoindustrial.com/privacy-policy.pdf">Privacy Policy</a>.'
 
 # Build settings
 markdown: kramdown
