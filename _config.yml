@@ -54,7 +54,7 @@ address:
   - line: Florence, CO 81226
 
 # Credits content
-links: 'Privacy Policy <a href="http://socoindustrial.com/privacy-policy.pdf">Privacy Policy</a>.'
+links: 'Privacy Policy <a href="http://socoindustrial.com/Privacy-Policy.pdf">Privacy Policy</a>.'
 
 # Build settings
 markdown: kramdown
