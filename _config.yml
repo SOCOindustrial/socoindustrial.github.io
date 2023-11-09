@@ -35,7 +35,7 @@ footer:
   copyright: SOCO INDUSTRIAL CORPORATION
   location: Location
   social: Social Media Links
-  links: Company Document Links
+  links: Documents
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -54,7 +54,7 @@ address:
   - line: Florence, CO 81226
 
 # Credits content
-links: 'Privacy Policy <a href="http://socoindustrial.com/Privacy-Policy.pdf">Privacy Policy</a>.'
+links: '<a href="http://socoindustrial.com/Privacy-Policy.pdf">Privacy Policy</a>'
 
 # Build settings
 markdown: kramdown
