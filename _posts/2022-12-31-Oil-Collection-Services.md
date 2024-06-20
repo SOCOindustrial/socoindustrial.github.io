@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2022-12-31
-img: 04_RECYCLING.png
+img: 01_RECYCLING.png
 alt: image-alt
 #project-date: 2023
 #client: Middle Tennessee
