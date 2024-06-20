@@ -1,0 +1,11 @@
+---
+layout: post
+modal-id: 5
+date: 2022-12-26
+img: 05_MAP.png
+alt: image-alt
+#project-date: 2023
+#client: Middle Tennessee
+#category: Service Area
+description: <p> <h2>Where we operate</h2> </p> <p clas="text-justify">Our current Service Area is a 100-mile radius around Nashville. Travel Fees help us recoup costs for fuel, insurance, vehicle maintenance, tires, & the technician's time. The current rate for 2024 is $1.50/mile round trip.</p> <p> <h3>Service Area</h3> </p> <img class="img-responsive img-centered" src="/assets/service_area.png"> <p>Anything outside our Service Territory is by appointment only and incurs a $2.00/mile round-trip Travel Fee.</p>
+---
