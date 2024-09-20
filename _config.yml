@@ -50,7 +50,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address: 
- -line: <a href"https://maps.app.goo.gl/fNATnMKwtzR6HV8q8" target="_blank" rel="noopener noreferrer">0 Wilhagan Road Nashville, TN 37217</a>
+ -line: "<a href'https://maps.app.goo.gl/fNATnMKwtzR6HV8q8' target='_blank' rel='noopener noreferrer'>0 Wilhagan Road Nashville, TN 37217</a>"
 
 # Credits content
 links: '<a href="http://socoindustrial.com/Privacy-Policy.pdf" target="_blank" rel="noopener noreferrer">Privacy Policy</a>'
